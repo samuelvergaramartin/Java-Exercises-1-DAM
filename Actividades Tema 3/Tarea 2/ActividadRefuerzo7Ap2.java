@@ -31,4 +31,4 @@ public class ActividadRefuerzo7Ap2 {
         }
         while(numIntento != 5);
     }
-}//hacer ejercicio 3.5 del PDF
+}

@@ -12,10 +12,10 @@ public class ActividadRefuerzo9 {
         num = sc.nextLong();
         while(num % 10 == 0) {
             num = num / 10;
-	    cifras++;
+	        cifras++;
         }
-	System.out.println("El numero tiene " + cifras + " cifras");
-	sc.close();
-	System.exit(0);
+        System.out.println("El numero tiene " + cifras + " cifras");
+        sc.close();
+        System.exit(0);
     }
 }

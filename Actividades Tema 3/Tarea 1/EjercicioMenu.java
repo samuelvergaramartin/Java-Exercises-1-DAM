@@ -42,4 +42,3 @@ public class EjercicioMenu {
         System.exit(0);
     }
 }
-// 2,3,5,6,7 (con while y do while) y el 9 con while

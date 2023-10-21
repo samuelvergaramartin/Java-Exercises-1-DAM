@@ -15,7 +15,7 @@ public class Actividad3P5 {
 			nOperaciones++;
 		}
 		while(result == op1 + op2);
-		System.out.println("Has conseguido realizar " + (nOperaciones -1) + " sumas consecutivas.");
+		System.out.println("Has conseguido realizar " + (nOperaciones - 1) + " sumas consecutivas.");
 		sc.close();
 		System.exit(0);
 	}
